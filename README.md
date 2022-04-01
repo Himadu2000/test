@@ -2,5 +2,3 @@
 
 Hello
 Hi
-H
-M
